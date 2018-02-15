@@ -15,4 +15,4 @@ Developing a mobile controlled car.
   
   7- Mohamed Medhat
   
-  8- Mahmoud Rasslan
+  8- Mahmoud Adel Rasslan
